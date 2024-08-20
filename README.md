@@ -1,3 +1,3 @@
-# Trabalho-Faculdade-em-C
+# Projeto-da-Faculdade-em-C
 
 Desenvolvimento do meu primeiro projeto em C da faculdade.
