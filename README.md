@@ -1,5 +1,3 @@
-# Projeto-da-Faculdade-em-C
-
 **Cálculo da Espessura do Material Isolante**
 
 📌 **Objetivo do Projeto**  
