@@ -1,4 +1,4 @@
-**Cálculo da Espessura do Material Isolante**
+**Calculadora de Espessura de Material Isolante em Python**
 
 📌 **Objetivo do Projeto**  
 Desenvolvi este programa em C para calcular a espessura do material isolante em um sistema de refrigeração. Ele utiliza variáveis como temperatura do bulbo seco, umidade relativa e condutividade térmica para determinar o valor correto.  
