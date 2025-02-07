@@ -7,7 +7,7 @@ Desenvolvi este programa em C para calcular a espessura do material isolante em 
 - Linguagem C  
 - Biblioteca `<math.h>` para cálculos matemáticos  
 
-**O que aprendi/desenvolvi**  
+📚 **O que aprendi/desenvolvi**  
 - Utilização da função `pow()` para cálculos de potência  
 - Manipulação de entrada e saída de dados com `scanf()` e `printf()`  
 - Aplicação de conceitos de transferência de calor, como convecção interna e externa  
